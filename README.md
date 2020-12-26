@@ -1,4 +1,4 @@
-# Algorithmic Problem Solving Strategies : 알고리즘 문제 해결 전력
+# Algorithmic Problem Solving Strategies : 알고리즘 문제 해결 전략
 
 ## 1부 문제 해결 시작하기
 - 1장 문제 해결과 프로그래밍 대회
