@@ -1,5 +1,5 @@
-# Online Judge
+# Algorithm Step By Step
+- 알고리즘 단계별로 해결하기
 
-## BaekJoon Online Judge
-- Link : https://www.acmicpc.net/
-- Link : https://solved.ac/
+## Link
+- Link : https://www.acmicpc.net/step
