@@ -1,0 +1,2 @@
+C:\Users\asasa\Desktop\Github\AlgorithmStepByStep\AlgorithmStepByStep\Debug\AlgorithmStepByStep.exe
+C:\Users\asasa\Desktop\Github\AlgorithmStepByStep\AlgorithmStepByStep\Debug\AlgorithmStepByStep.pdb
