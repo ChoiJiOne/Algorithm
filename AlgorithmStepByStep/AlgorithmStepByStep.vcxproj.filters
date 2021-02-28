@@ -7,7 +7,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="7단계_문자열\2675_01.cpp">
+    <ClCompile Include="7단계_문자열\2908_01.cpp">
       <Filter>Source</Filter>
     </ClCompile>
   </ItemGroup>
